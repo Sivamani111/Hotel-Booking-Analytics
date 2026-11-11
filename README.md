@@ -99,3 +99,21 @@ Hotel-Booking-Analytics/
 ## Conclusion
 
 This project demonstrates how raw hotel booking data can be transformed into clean, reliable, and business-ready information using Databricks Medallion Architecture and Power BI.
+
+
+## Project Screenshots
+
+### Databricks Catalog
+![Databricks Catalog](screenshots/databricks_catalog.png)
+
+### ETL Pipeline
+![Pipeline](screenshots/pipeline_graph.png)
+
+### Dashboard – Overview
+![Overview](screenshots/overview_dashboard.png)
+
+### Hotel & Booking Analysis
+![Hotel Analysis](screenshots/hotel_booking_analysis.png)
+
+### Data Quality Dashboard
+![Data Quality](screenshots/data_quality_dashboard.png)
